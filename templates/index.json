@@ -87,16 +87,17 @@
         "afde13f2-2205-4054-bb55-90ff12615031"
       ],
       "settings": {
-        "slide_height": "adapt",
+        "slide_height": "small",
         "text_size": "medium",
-        "text_alignment": "center center",
-        "show_overlay": true,
-        "auto": false,
+        "text_alignment": "right center",
+        "show_overlay": false,
+        "auto": true,
         "speed": 5
       }
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -144,6 +145,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -174,6 +176,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -201,6 +204,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -240,6 +244,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -253,6 +258,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
