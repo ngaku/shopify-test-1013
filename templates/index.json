@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/cosmetic-mock-up-products-vector-template-design-make-up-cosmetics-product-with-elements-like-face_572293-1456.jpg",
-            "slide_title": "見出しが入ります。",
-            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
-            "button_label": "Button label",
+            "slide_title": "",
+            "subheading": "",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -208,6 +208,7 @@
       "blocks": {
         "collection-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
@@ -258,7 +259,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
