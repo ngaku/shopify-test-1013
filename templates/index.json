@@ -22,11 +22,22 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "12f1cf5a-44e6-4f5c-b1f3-f2f2af43f12f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/makeup-bottles-scene-mockup-perspective-view_1332-4335.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "3826fa8b-6f4b-40e5-9657-29b82ec5d567",
-        "6a5c2308-a04d-4c5c-a86f-1cfe5339aebe"
+        "6a5c2308-a04d-4c5c-a86f-1cfe5339aebe",
+        "12f1cf5a-44e6-4f5c-b1f3-f2f2af43f12f"
       ],
       "settings": {
         "slide_height": "medium",
