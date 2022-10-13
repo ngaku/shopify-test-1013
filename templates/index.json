@@ -5,6 +5,7 @@
       "blocks": {
         "3826fa8b-6f4b-40e5-9657-29b82ec5d567": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/cosmetic-mock-up-products-vector-template-design-make-up-cosmetics-product-with-elements-like-face_572293-1456.jpg",
             "slide_title": "",
@@ -15,6 +16,7 @@
         },
         "6a5c2308-a04d-4c5c-a86f-1cfe5339aebe": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/eye-makeup-products-scene-mockup_1332-4653.jpg",
             "slide_title": "見出しが入ります。",
@@ -25,6 +27,7 @@
         },
         "12f1cf5a-44e6-4f5c-b1f3-f2f2af43f12f": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/makeup-bottles-scene-mockup-perspective-view_1332-4335.jpg",
             "slide_title": "見出しが入ります。",
@@ -145,7 +148,6 @@
     },
     "rich_text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -176,7 +178,6 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -309,6 +310,113 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5c0964b8-a022-46ff-8606-0fb8a728c715": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "25a9f8c7-f69a-4e37-86e1-98aecac64e54": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "eca49cf4-0549-4d09-8d7a-159b5bc5f498": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "bd5ee959-54d2-4ea7-bfb1-6a19028601e4": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-0",
+        "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-1",
+        "25a9f8c7-f69a-4e37-86e1-98aecac64e54",
+        "eca49cf4-0549-4d09-8d7a-159b5bc5f498",
+        "bd5ee959-54d2-4ea7-bfb1-6a19028601e4"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -319,6 +427,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "5c0964b8-a022-46ff-8606-0fb8a728c715"
   ]
 }
