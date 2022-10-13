@@ -5,7 +5,6 @@
       "blocks": {
         "3826fa8b-6f4b-40e5-9657-29b82ec5d567": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/cosmetic-mock-up-products-vector-template-design-make-up-cosmetics-product-with-elements-like-face_572293-1456.jpg",
             "slide_title": "",
@@ -16,7 +15,6 @@
         },
         "6a5c2308-a04d-4c5c-a86f-1cfe5339aebe": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/eye-makeup-products-scene-mockup_1332-4653.jpg",
             "slide_title": "見出しが入ります。",
@@ -27,7 +25,6 @@
         },
         "12f1cf5a-44e6-4f5c-b1f3-f2f2af43f12f": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/makeup-bottles-scene-mockup-perspective-view_1332-4335.jpg",
             "slide_title": "見出しが入ります。",
