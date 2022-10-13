@@ -48,6 +48,53 @@
         "speed": 3
       }
     },
+    "b93d2ac1-8b65-4705-a645-7944f78047dd": {
+      "type": "slider",
+      "blocks": {
+        "5165977a-f858-4dfc-8548-0fcfd7463bd0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eyebrow-pencil-with-box-packaging-mockup_439185-2203.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "bb90c076-4134-4a88-b99c-e20dba466918": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/transparent-glossy-plastic-lip-gloss-tube-mockup_439185-6125.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "afde13f2-2205-4054-bb55-90ff12615031": {
+          "type": "slide",
+          "settings": {
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5165977a-f858-4dfc-8548-0fcfd7463bd0",
+        "bb90c076-4134-4a88-b99c-e20dba466918",
+        "afde13f2-2205-4054-bb55-90ff12615031"
+      ],
+      "settings": {
+        "slide_height": "adapt",
+        "text_size": "medium",
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "auto": false,
+        "speed": 5
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -260,6 +307,7 @@
   },
   "order": [
     "55b4f256-9e0f-4058-b5fa-5f4b447b2cdf",
+    "b93d2ac1-8b65-4705-a645-7944f78047dd",
     "image_banner",
     "rich_text",
     "featured_collection",
