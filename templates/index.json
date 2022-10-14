@@ -15,6 +15,7 @@
         },
         "6a5c2308-a04d-4c5c-a86f-1cfe5339aebe": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/eye-makeup-products-scene-mockup_1332-4653.jpg",
             "slide_title": "見出しが入ります。",
@@ -25,6 +26,7 @@
         },
         "12f1cf5a-44e6-4f5c-b1f3-f2f2af43f12f": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/makeup-bottles-scene-mockup-perspective-view_1332-4335.jpg",
             "slide_title": "見出しが入ります。",
@@ -45,7 +47,7 @@
         "text_alignment": "center center",
         "show_overlay": true,
         "auto": true,
-        "speed": 3
+        "speed": 5
       }
     },
     "b93d2ac1-8b65-4705-a645-7944f78047dd": {
@@ -429,6 +431,260 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "ceed6469-3a70-45ce-86bd-28a7bcd9ef92": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--14588300263501__ceed6469-3a70-45ce-86bd-28a7bcd9ef92-16657169171b3617f4-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14588300263501__ceed6469-3a70-45ce-86bd-28a7bcd9ef92-16657169171b3617f4-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "64f2e0fb-fc69-4bd6-b18f-6cf9f0de8ab0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ba87ef0a-be13-4f4f-abdc-f53f2b98631b": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14588300263501__ceed6469-3a70-45ce-86bd-28a7bcd9ef92-16657169171b3617f4-0",
+        "template--14588300263501__ceed6469-3a70-45ce-86bd-28a7bcd9ef92-16657169171b3617f4-1",
+        "64f2e0fb-fc69-4bd6-b18f-6cf9f0de8ab0",
+        "ba87ef0a-be13-4f4f-abdc-f53f2b98631b"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "8168dbe4-dbb3-49b8-873f-1ff2da971ef6": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14588300263501__8168dbe4-dbb3-49b8-873f-1ff2da971ef6-16657169171b3617f4-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14588300263501__8168dbe4-dbb3-49b8-873f-1ff2da971ef6-16657169171b3617f4-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14588300263501__8168dbe4-dbb3-49b8-873f-1ff2da971ef6-16657169171b3617f4-0",
+        "template--14588300263501__8168dbe4-dbb3-49b8-873f-1ff2da971ef6-16657169171b3617f4-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "cf47f56f-5c75-4422-899c-025fe3682234": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ac2d6a96-fe65-4e1a-a3ee-92f572fcc667": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14588300263501__ac2d6a96-fe65-4e1a-a3ee-92f572fcc667-16657169171b3617f4-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14588300263501__ac2d6a96-fe65-4e1a-a3ee-92f572fcc667-16657169171b3617f4-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14588300263501__ac2d6a96-fe65-4e1a-a3ee-92f572fcc667-16657169171b3617f4-0",
+        "template--14588300263501__ac2d6a96-fe65-4e1a-a3ee-92f572fcc667-16657169171b3617f4-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "b794339a-5e93-4beb-8bda-1be215f2ad77": {
+      "type": "slider",
+      "blocks": {
+        "53f0abf0-757b-4712-9bb6-8ef0fcc5ca65": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "96599457-abfa-4185-9007-de36cd10d61a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fall-vegetable-box.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "830b0b2d-ee55-4407-af3a-4096f682ad1b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/urban-mens-fashion-on-young-adult.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "53f0abf0-757b-4712-9bb6-8ef0fcc5ca65",
+        "96599457-abfa-4185-9007-de36cd10d61a",
+        "830b0b2d-ee55-4407-af3a-4096f682ad1b"
+      ],
+      "settings": {
+        "slide_height": "adapt",
+        "text_size": "medium",
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "auto": false,
+        "speed": 5
+      }
     }
   },
   "order": [
@@ -440,6 +696,11 @@
     "collage",
     "video",
     "multicolumn",
-    "5c0964b8-a022-46ff-8606-0fb8a728c715"
+    "5c0964b8-a022-46ff-8606-0fb8a728c715",
+    "ceed6469-3a70-45ce-86bd-28a7bcd9ef92",
+    "8168dbe4-dbb3-49b8-873f-1ff2da971ef6",
+    "cf47f56f-5c75-4422-899c-025fe3682234",
+    "ac2d6a96-fe65-4e1a-a3ee-92f572fcc667",
+    "b794339a-5e93-4beb-8bda-1be215f2ad77"
   ]
 }
