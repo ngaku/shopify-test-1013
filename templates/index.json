@@ -50,9 +50,11 @@
     },
     "b93d2ac1-8b65-4705-a645-7944f78047dd": {
       "type": "slider",
+      "disabled": true,
       "blocks": {
         "5165977a-f858-4dfc-8548-0fcfd7463bd0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/eyebrow-pencil-with-box-packaging-mockup_439185-2203.jpg",
             "slide_title": "見出しが入ります。",
@@ -63,6 +65,7 @@
         },
         "bb90c076-4134-4a88-b99c-e20dba466918": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/transparent-glossy-plastic-lip-gloss-tube-mockup_439185-6125.jpg",
             "slide_title": "見出しが入ります。",
@@ -73,6 +76,7 @@
         },
         "afde13f2-2205-4054-bb55-90ff12615031": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
@@ -213,6 +217,7 @@
         },
         "product": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "",
             "second_image": false
@@ -220,6 +225,7 @@
         },
         "collection-1": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
@@ -257,9 +263,11 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -269,6 +277,7 @@
         },
         "column2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -278,6 +287,7 @@
         },
         "column3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -314,6 +324,7 @@
       "blocks": {
         "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -331,6 +342,7 @@
         },
         "template--14588300263501__5c0964b8-a022-46ff-8606-0fb8a728c715-1665640601da0b6bee-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -348,6 +360,7 @@
         },
         "25a9f8c7-f69a-4e37-86e1-98aecac64e54": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -365,6 +378,7 @@
         },
         "eca49cf4-0549-4d09-8d7a-159b5bc5f498": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
@@ -382,6 +396,7 @@
         },
         "bd5ee959-54d2-4ea7-bfb1-6a19028601e4": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
