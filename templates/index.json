@@ -6,6 +6,7 @@
         "e3906c3c-e64a-489c-9230-fb91ffcfc193": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/fall-vegetable-box.jpg",
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
             "button_label": "Button label",
@@ -15,6 +16,7 @@
         "153a629a-375e-43d7-b3b1-3b9c1586b1dc": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
             "slide_title": "見出しが入ります。",
             "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
             "button_label": "Button label",
